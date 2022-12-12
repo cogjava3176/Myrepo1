@@ -8,6 +8,7 @@ public class DigitalBookService1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DigitalBookService1Application.class, args);
-		System.out.println("welcome to learn");
+	
 	}
+	//this is my commit
 }
